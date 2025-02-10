@@ -20,6 +20,9 @@
   <a href="https://codespaces.new/Yoshida24/codeassist">
     <img src="https://github.com/codespaces/badge.svg" alt="codeassist" style="height:24px; vertical-align:middle:">
   </a>
+    <a href="https://app.codeanywhere.com/#https://github.com/Yoshida24/codeassist">
+    <img src="https://img.shields.io/badge/Open%20in-Codeanywhere-blue?style=flat-square&logo=codeanywhere" alt="codeassist" style="height:24px; vertical-align:middle:">
+  </a>
 </p>
 
 ## What is CodeAssist
